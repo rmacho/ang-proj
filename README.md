@@ -16,8 +16,19 @@ Here some tools that can help your workflow
 ### Text editors
 
 1. [WebStorm](https://www.jetbrains.com/webstorm/)
-![alt text](https://www.jetbrains.com/webstorm/img/screenshots/webstorm-main.png)
 <img src="https://www.jetbrains.com/webstorm/img/screenshots/webstorm-main.png" width="300">
+
+2. [Aptana](http://www.aptana.com/) - Free
+<img src="http://www.aptana.com/images/product/S3-1-lrg.png" width="300">
+
+3. [Sublime Text](http://www.sublimetext.com/)
+<img src="https://www.sublimetext.com/blog/images/build_error.png" width="300">
+
+4. [IntelliJ](https://www.jetbrains.com/idea/)
+<img src="https://www.jetbrains.com/idea/img/screenshots/idea_overview_5_1.png" width="300">
+
+5. [Visual Studio code](https://code.visualstudio.com/) - Free
+<img src="https://code.visualstudio.com/home/home-screenshot-win.png" width="300">
 
 ### Prerequisites
 
