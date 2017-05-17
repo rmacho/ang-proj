@@ -9,6 +9,15 @@ Some famous styleguides:
 * [Todd Motto Styleguide](https://github.com/toddmotto/angularjs-styleguide/) - The angularJS styleguide
 * [John Papa](https://github.com/johnpapa/angular-styleguide/) - Angular styleguide
 
+## AngualrJS tools
+
+Here some tools that can help your workflow
+
+### Text editors
+
+1. [WebStorm](https://www.jetbrains.com/webstorm/)
+![alt text](https://www.jetbrains.com/webstorm/img/screenshots/webstorm-main.png)
+
 ### Prerequisites
 
 What things you need to install the software and how to install them
