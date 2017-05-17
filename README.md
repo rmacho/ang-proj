@@ -1,10 +1,13 @@
-# Angualar guide for beginners
+# AngularJS guide for beginners
 
 One Paragraph of project description goes here
 
-## Getting Started
+## AngularJS Styleguides
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Some famous styleguides:
+
+* [Todd Motto Styleguide](https://github.com/toddmotto/angularjs-styleguide/) - The angularJS styleguide
+* [John Papa](https://github.com/johnpapa/angular-styleguide/) - Angular styleguide
 
 ### Prerequisites
 
