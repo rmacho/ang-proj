@@ -17,6 +17,7 @@ Here some tools that can help your workflow
 
 1. [WebStorm](https://www.jetbrains.com/webstorm/)
 ![alt text](https://www.jetbrains.com/webstorm/img/screenshots/webstorm-main.png)
+<img src="https://www.jetbrains.com/webstorm/img/screenshots/webstorm-main.png" width="300">
 
 ### Prerequisites
 
