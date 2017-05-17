@@ -1,4 +1,4 @@
-# Project Title
+# Angualar guide for beginners
 
 One Paragraph of project description goes here
 
