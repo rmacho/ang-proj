@@ -35,15 +35,24 @@ Here some tools that can help your workflow
 Some useful javascript style guides:
 
 ### Linting tools
-* [JSLint]()
-* [JSHint]()
-* [JSCS]()
-* [ESLint]()
+* [JSLint](http://www.jslint.com/)
+* [JSHint](http://jshint.com/)
+* [JSCS](http://jscs.info/)
+* [ESLint](http://eslint.org/)
+
+This is a good [article](https://www.sitepoint.com/comparison-javascript-linting-tools/) that shows the differences between the linting tools 
 
 ### Standard style guide
-[standardJS](https://standardjs.com) - Javascript Standard Style
+[standardJS](https://standardjs.com) : Javascript Standard Style
 read this article if you want to know why use standardJS:
 [Why I Use a JavaScript Style Guide and Why You Should Too](https://www.sitepoint.com/why-use-javascript-style-guide/) - Mark Brown
+
+### which one can I use?
+
+In Order to help you make a choice, I collected some good articles for you:
+* [A Comparison of JavaScript Linting Tools](https://www.sitepoint.com/comparison-javascript-linting-tools/) - Jani Hartikainen
+* [Why to use JavaScript Standard Style?](https://www.linkedin.com/pulse/why-use-javascript-standard-style-miguel-angel-dur%C3%A1n-garc%C3%ADa) - Miguel Angel Durán García
+* [An Open Letter to JavaScript Leaders Regarding Semicolons](http://blog.izs.me/post/2353458699/an-open-letter-to-javascript-leaders-regarding) - Isaac Z. Schlueter
 
 ### Prerequisites
 
