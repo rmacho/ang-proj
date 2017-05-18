@@ -66,3 +66,17 @@ funcA(function() {
 })
 // 'callback called'
 ```
+
+### Callback hell
+
+This is the situation when callbacks are nested within other callbacks several levels deep.
+
+> Avoid the constantly growing indentation lever, produce readable and clean code. [callbackhell.com](http://callbackhell.com/) has a nice guide to writing asynchronous JavaScript programs
+
+```
+funcA(param, function(a, b){
+    funcB(param, function(a, b) {
+        ...
+    })
+})
+```
