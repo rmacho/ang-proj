@@ -24,14 +24,9 @@ Here some tools that can help your workflow
 Some useful JavaScript style guides:
 
 ### Linting tools
-* [JSLint](http://www.jslint.com/)
-* [JSHint](http://jshint.com/)
-* [JSCS](http://jscs.info/)
-* [ESLint](http://eslint.org/)
+| [JSLint](http://www.jslint.com/) | [JSHint](http://jshint.com/) | [JSCS](http://jscs.info/) | [ESLint](http://eslint.org/)
 
-```
 This is a good [article](https://www.sitepoint.com/comparison-javascript-linting-tools/) that shows the differences between the linting tools
-```
 
 ### Standard style guide
 [standardJS](https://standardjs.com) : Javascript Standard Style
@@ -39,6 +34,10 @@ read this article if you want to know why use standardJS:
 [Why I Use a JavaScript Style Guide and Why You Should Too](https://www.sitepoint.com/why-use-javascript-style-guide/) - Mark Brown
 
 ### which one can I use?
+
+```
+Rule Them All
+```
 
 In Order to help you make a choice, I collected some good articles for you:
 * [A Comparison of JavaScript Linting Tools](https://www.sitepoint.com/comparison-javascript-linting-tools/) - Jani Hartikainen
