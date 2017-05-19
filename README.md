@@ -9,13 +9,13 @@ Some famous styleguides:
 * [Todd Motto Styleguide](https://github.com/toddmotto/angularjs-styleguide/) - The angularJS styleguide
 * [John Papa](https://github.com/johnpapa/angular-styleguide/) - Angular styleguide
 
-## AngualrJS tools
+## AngularJS tools
 
 Here some tools that can help your workflow
 
 ### Text editors
 
-| [WebStorm](https://www.jetbrains.com/webstorm/) | [Aptana](http://www.aptana.com/) **Free** | [Sublime Text](http://www.sublimetext.com/) | [IntelliJ](https://www.jetbrains.com/idea/) | [Visual Studio code](https://code.visualstudio.com/) **Free** |
+| [WebStorm](https://www.jetbrains.com/webstorm/) | [Aptana](http://www.aptana.com/) (**Free**) | [Sublime Text](http://www.sublimetext.com/) | [IntelliJ](https://www.jetbrains.com/idea/) | [Visual Studio code](https://code.visualstudio.com/) (**Free**) |
 | --- | --- | --- | --- | --- |
 |<img src="https://www.jetbrains.com/webstorm/img/screenshots/webstorm-main.png" width="100"> | <img src="http://www.aptana.com/images/product/S3-1-lrg.png" width="100"> | <img src="https://www.sublimetext.com/blog/images/build_error.png" width="100"> | <img src="https://www.jetbrains.com/idea/img/screenshots/idea_overview_5_1.png" width="100"> | <img src="https://code.visualstudio.com/home/home-screenshot-win.png" width="100"> |
 
@@ -80,3 +80,12 @@ funcA(param, function(a, b){
     })
 })
 ```
+
+### Promise
+
+- A special type of Object containing some methods
+- Promse can be used or can be constructed to handle asynchronous tasks
+- it's called 'Promise' because it promises a result at a futrue point in time
+- Has three states: pending, resolved or rejected.
+
+This is [a nice way to explain promises](http://andyshora.com/promises-angularjs-explained-as-cartoon.html) by Andy Shora
