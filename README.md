@@ -85,7 +85,10 @@ funcA(param, function(a, b){
 
 - A special type of Object containing some methods
 - Promse can be used or can be constructed to handle asynchronous tasks
-- it's called 'Promise' because it promises a result at a futrue point in time
+- It's called 'Promise' because it promises a result at a futrue point in time
 - Has three states: pending, resolved or rejected.
 
 This is [a nice way to explain promises](http://andyshora.com/promises-angularjs-explained-as-cartoon.html) by Andy Shora
+
+## Best practices: coding
+### Angular components
